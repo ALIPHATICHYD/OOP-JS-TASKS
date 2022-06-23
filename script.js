@@ -15,3 +15,4 @@ class Mammal extends Animal{
         }
     }
 
+const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
