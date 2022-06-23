@@ -11,4 +11,5 @@
 <ul>
     <li>Create a general games character</li>
     <li>Create sub characters: goblin, wizard and elf</li>
+    <li></li>
 </ul>
