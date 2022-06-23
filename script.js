@@ -47,3 +47,9 @@ const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
                 return 'magic'
             }
         }      
+
+ class Elf extends GeneralCharacters{
+         constructor(name, color, xplevel){
+             super(name, color, xplevel)
+                }
+                
