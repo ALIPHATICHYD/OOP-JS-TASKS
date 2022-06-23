@@ -12,5 +12,5 @@
     <li>Create a general games character</li>
     <li>Create sub characters: goblin, wizard and elf</li>
     <li>Create 1 goblin, 1 wizard, 1 elf that accepts name, color, xp level, and has action as a method</li>
-    <li></li>
+    <li>Actions: Steal, magic, annoy</li>
 </ul>
