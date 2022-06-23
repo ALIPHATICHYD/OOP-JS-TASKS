@@ -20,5 +20,6 @@ const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
    console.log(cow);
    console.log(Mammal.sound());
 
+//OOP TASK 2
 
 
