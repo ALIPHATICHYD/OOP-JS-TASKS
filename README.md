@@ -10,5 +10,5 @@
 <h2>OOP TASK 2;</h2>
 <ul>
     <li>Create a general games character</li>
-    <li>Create a general games character</li>
+    <li>Create sub characters: goblin, wizard and elf</li>
 </ul>
