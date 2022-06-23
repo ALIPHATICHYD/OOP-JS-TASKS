@@ -21,5 +21,11 @@ const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
    console.log(Mammal.sound());
 
 //OOP TASK 2
-
+ class GeneralCharacters{
+        constructor(name, color, xplevel){
+            this.name = name
+            this.color = color
+            this. xplevel = xplevel
+        }
+    }
 
