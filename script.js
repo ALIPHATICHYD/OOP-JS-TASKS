@@ -29,3 +29,8 @@ const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
         }
     }
 
+ class Goblin extends GeneralCharacters{
+        constructor(name, color, xplevel){
+            super(name, color, xplevel)
+            
+        }
