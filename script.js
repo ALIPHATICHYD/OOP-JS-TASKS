@@ -38,3 +38,8 @@ const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
             return 'steal';
         }
     }
+
+  class Wizard extends GeneralCharacters{
+        constructor(name, color, xplevel){
+             super(name, color, xplevel)
+            }
