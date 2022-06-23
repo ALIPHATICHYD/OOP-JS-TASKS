@@ -1,3 +1,3 @@
 # OOP-JS-TASKS
 
-<h2>OOP TASK 1</h2>
+<h2>OOP TASK 1;</h2>
