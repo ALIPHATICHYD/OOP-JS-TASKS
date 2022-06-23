@@ -16,3 +16,5 @@ class Mammal extends Animal{
     }
 
 const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
+   console.log(cow);
+   console.log(Mammal.sound());
