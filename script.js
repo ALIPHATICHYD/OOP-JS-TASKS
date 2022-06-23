@@ -63,3 +63,6 @@ const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
     const wizard = new Wizard('Wizard', 'brown', '150')
     const elf = new Elf('Elf', 'LightBrown', '89')
 
+   console.log(wizard);
+    console.log(Wizard.action());
+
