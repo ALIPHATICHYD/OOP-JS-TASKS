@@ -5,3 +5,13 @@
             this.color = color
         }
     }
+
+class Mammal extends Animal{
+        constructor(name, birthType, color){
+            super(name, birthType, color)
+        }
+        static sound() {
+            return 'moo'
+        }
+    }
+
