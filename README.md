@@ -9,6 +9,6 @@
 
 <h2>OOP TASK 2;</h2>
 <ul>
-    <li></li>
+    <li>Create a general games character</li>
     <li></li>
 </ul>
