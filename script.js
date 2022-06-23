@@ -33,6 +33,9 @@ const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
         constructor(name, color, xplevel){
             super(name, color, xplevel)
             
+ console.log(goblin);
+    console.log(Goblin.action());
+
         }
          static action() {
             return 'steal';
