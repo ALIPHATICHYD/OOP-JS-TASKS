@@ -1,4 +1,5 @@
- class Animal {
+//OOP TASK 1
+class Animal {
         constructor(name, birthType, color){
             this.name = name
             this.birthType = birthType
@@ -18,3 +19,6 @@ class Mammal extends Animal{
 const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
    console.log(cow);
    console.log(Mammal.sound());
+
+
+
