@@ -5,3 +5,10 @@
     <li>Create two classes: an Animal class and a Mammal class(FROM ANIMAL)</li>
     <li>Create a cow that accepts a name, birthType and color and has a sound method that moo's her name, type and colour</li>
 </ul>
+
+
+<h2>OOP TASK 2;</h2>
+<ul>
+    <li></li>
+    <li></li>
+</ul>
