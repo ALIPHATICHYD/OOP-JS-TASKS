@@ -43,3 +43,7 @@ const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
         constructor(name, color, xplevel){
              super(name, color, xplevel)
             }
+               static action() {
+                return 'magic'
+            }
+        }      
