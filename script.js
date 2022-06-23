@@ -34,3 +34,7 @@ const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
             super(name, color, xplevel)
             
         }
+         static action() {
+            return 'steal';
+        }
+    }
