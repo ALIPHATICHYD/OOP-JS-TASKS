@@ -56,3 +56,7 @@ const cow = new Mammal('COW', 'MAMMAL', 'WHITE');
                     return 'annoy'
                 }
                 
+   const goblin = new Goblin('Goblin', 'green', '51')
+    const wizard = new Wizard('Wizard', 'brown', '150')
+    const elf = new Elf('Elf', 'LightBrown', '89')
+
